@@ -6,7 +6,7 @@
 
   [![Forge](https://img.shields.io/badge/Forge-1.20.6-orange.svg)](http://files.minecraftforge.net)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/t9DZVq2ZmT)
+  [![Discord](https://img.shields.io/discord/985957714515591279?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/t9DZVq2ZmT)
 </div>
 
 ## Overview
