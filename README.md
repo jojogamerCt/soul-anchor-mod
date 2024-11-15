@@ -92,6 +92,6 @@ Special thanks to:
   <p>Made with ❤️ for the Minecraft community</p>
   <p>
     <a href="https://discord.gg/t9DZVq2ZmT">Join our Discord</a> •
-    <a href="https://www.curseforge.com/minecraft/mc-mods/soul-anchor">CurseForge</a> •
+    <a href="https://www.curseforge.com/minecraft/mc-mods/soul-anchor">CurseForge</a>
   </p>
 </div>
