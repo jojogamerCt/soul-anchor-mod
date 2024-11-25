@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - **Sh4d0wJ0J0** - *Initial work* - [GitHub](https://github.com/Sh4d0wJ0J0)
-- **PROFAKE** - *Initial work* - [GitHub](https://github.com/PROFAKE)
+- **PROFAKE** - *Initial work* - [GitHub](https://github.com/IlproFake)
 
 ## Credits
 
